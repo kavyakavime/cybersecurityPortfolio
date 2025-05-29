@@ -1,7 +1,7 @@
 # Cybersecurity Incident Report
 
-## Section 1: Identify the type of attack that may have caused this 
-network interruption
+## Section 1: Identify the type of attack that may have caused this network interruption
+
 One potential explanation for the website's connection timeout error message is because of a DoS SYN flood attack. 
 The log shows that the attacker takes advantage of the TCP protocol’s three way handshake to overload the web server. 
 
